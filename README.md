@@ -7,4 +7,4 @@ A new conlang which is open-source !!!
 | greetings  | hey  |
 | bonjour    | salut|
 
-<center> Hello </center>
+<p align="center"> Hello </p>
