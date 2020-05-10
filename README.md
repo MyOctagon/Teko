@@ -6,3 +6,5 @@ A new conlang which is open-source !!!
 | hi         | bye  |
 | greetings  | hey  |
 | bonjour    | salut|
+
+<center> Hello </center>
