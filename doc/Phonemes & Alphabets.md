@@ -4,7 +4,7 @@ Teko uses almost the same phonemes of English but it is not completely same, the
 The Phonemes of Teko are shown bellow:
 
 | Symbol | Pronunciation/Abbreviation|
-|--------|---------------------------|
+|:------:|:-------------------------:|
 |   q    |        \p\                |
 
 
