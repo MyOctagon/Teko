@@ -1,4 +1,3 @@
-<style src="css/main.css">
 # Phonemes
 Teko uses almost the same phonemes of English but it is not completely same, there are some exceptions.
 
@@ -28,3 +27,6 @@ If you don't know what these means then just use Delemo, it's the one English us
 > Due to technical problems, this documentation currently uses Delemo System.
 
 We usually use Delemo in computers and Kaliri in handwriting.
+
+
+<style src="css/main.css">
