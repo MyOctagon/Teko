@@ -3,9 +3,18 @@ Teko uses almost the same phonemes of English but it is not completely same, the
 
 The Phonemes of Teko are shown bellow:
 
-| Symbol | Pronunciation/Abbreviation|
-|:------:|:-------------------------:|
-|   q    |        \p\                |
+| Symbol | Pronunciation/Notation |
+|:------:|:----------------------:|
+|   p    |        \p\             |
+|   b    |        \b\             |
+|   t    |        \t\             |
+|   d    |        \d\             |
+|   k    |        \k\             |
+|   g    |        \g\             |
+|   f    |        \f\             |
+|   v    |        \v\             |
+|   ʋ    |        \bv\            |
+
 
 
 # Alphabets
