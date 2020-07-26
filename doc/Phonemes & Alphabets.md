@@ -1,3 +1,13 @@
+# Phonemes
+Teko uses almost the same phonemes of English but it is not completely same, there are some exceptions.
+
+The Phonemes of Teko are shown bellow:
+
+| Symbol | Pronunciation/Abbreviation|
+|--------|---------------------------|
+|   q    |        \p\                |
+
+
 # Alphabets
 Teko uses both Abugaidas and Segmental Writing Systems. The uses depend on the personal preference of the writer (Currently).
 Abugaidas is known as Kaliri System and Segmental Writing is known as Delemo System in Teko.
