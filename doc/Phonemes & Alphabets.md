@@ -14,7 +14,9 @@ The Phonemes of Teko are shown bellow:
 |   f    |        \f\             |
 |   v    |        \v\             |
 |   ʋ    |        \bv\            |
-
+|   θ    |        \th\            |
+|   ð    |        \th\            |
+|   s    |         
 
 
 # Alphabets
