@@ -29,4 +29,4 @@ If you don't know what these means then just use Delemo, it's the one English us
 We usually use Delemo in computers and Kaliri in handwriting.
 
 
-<style src="css/m
+
