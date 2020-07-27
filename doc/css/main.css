@@ -9,7 +9,7 @@
 
 @font-face {
 	font-family: Teko;
-	src: url(../../resources/fonts/Teko.ttf)
+	src: url('../../resources/fonts/Teko.ttf');
 }
 
 
@@ -57,7 +57,6 @@ code {
   background-color: #fafafa;
 }
 
-teko {
+.teko {
 	font-family: Teko;
-	font-weight: bold;
 }
