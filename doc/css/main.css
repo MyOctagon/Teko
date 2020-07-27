@@ -7,6 +7,13 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
 @import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);
 
+@font-face {
+	font-family: "Teko"
+	src: url("../../resources/fonts/Teko.ttf")
+}
+
+
+
 html {
   font-size: 18px;
   max-width: 100%;
@@ -48,4 +55,8 @@ blockquote {
 pre,
 code {
   background-color: #fafafa;
+}
+
+teko {
+	font-family: 'Teko';
 }
