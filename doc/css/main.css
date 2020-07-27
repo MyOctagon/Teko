@@ -8,8 +8,8 @@
 @import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);
 
 @font-face {
-	font-family: "Teko"
-	src: url("../../resources/fonts/Teko.ttf")
+	font-family: Teko
+	src: url(../../resources/fonts/Teko.ttf)
 }
 
 
@@ -58,5 +58,5 @@ code {
 }
 
 teko {
-	font-family: 'Teko';
+	font-family: Teko;
 }
